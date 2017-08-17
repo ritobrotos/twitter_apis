@@ -1,0 +1,17 @@
+{
+  "name": "twitter_apis",
+  "version": "1.0.0",
+  "description": "This project tries to make you of the Twitter APIs into use.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritobroto Seth",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
